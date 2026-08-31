@@ -1,4 +1,4 @@
-# Isaac Labを用いたVLA開発：Franka Cube Lift
+# Isaac Labを用いたVLA向けロボット模倣学習：Franka Cube Lift
 
 ![Franka Pandaによるキューブ把持](06_videos/franka_cube_lift_success.png)
 
