@@ -1,4 +1,4 @@
-# VLA Development with Isaac Lab: Franka Cube Lift
+# Robot Imitation Learning for VLAs Using Isaac Lab: Franka Cube Lift
 
 ![Franka Panda grasping the cube](06_videos/franka_cube_lift_success.png)
 
